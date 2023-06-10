@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapiRaffle.BLL", "CapiRaffle.BLL\CapiRaffle.BLL.csproj", "{3E1F04D8-E99B-4DAC-A6AB-297221960521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapiRaffle.BLL", "CapiRaffle.BLL\CapiRaffle.BLL.csproj", "{3E1F04D8-E99B-4DAC-A6AB-297221960521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapiRaffle.DAL", "CapiRaffle.DAL\CapiRaffle.DAL.csproj", "{1EC45FA1-0D79-466E-B21D-7E6A4A3445A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapiRaffle.DAL", "CapiRaffle.DAL\CapiRaffle.DAL.csproj", "{1EC45FA1-0D79-466E-B21D-7E6A4A3445A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapiRaffle.MODEL", "CapiRaffle.MODEL\CapiRaffle.MODEL.csproj", "{ACDCD381-FCEB-419A-80BD-54AFBB722E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapiRaffle.MODEL", "CapiRaffle.MODEL\CapiRaffle.MODEL.csproj", "{ACDCD381-FCEB-419A-80BD-54AFBB722E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapiRaffle.BLLService", "CapiRaffle.BLLService\CapiRaffle.BLLService.csproj", "{EBBBA434-CDBC-4B2D-A178-A2083C4FD80D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{ACDCD381-FCEB-419A-80BD-54AFBB722E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACDCD381-FCEB-419A-80BD-54AFBB722E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACDCD381-FCEB-419A-80BD-54AFBB722E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBBA434-CDBC-4B2D-A178-A2083C4FD80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBBA434-CDBC-4B2D-A178-A2083C4FD80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBBA434-CDBC-4B2D-A178-A2083C4FD80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBBA434-CDBC-4B2D-A178-A2083C4FD80D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

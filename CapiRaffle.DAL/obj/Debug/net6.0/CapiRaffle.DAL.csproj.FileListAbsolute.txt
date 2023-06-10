@@ -12,3 +12,6 @@ C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\refint\Ca
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.pdb
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.genruntimeconfig.cache
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\ref\CapiRaffle.DAL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.MODEL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.MODEL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.csproj.CopyComplete

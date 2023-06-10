@@ -10,3 +10,10 @@ C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\CapiRaffl
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\refint\CapiRaffle.BLL.dll
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\CapiRaffle.BLL.pdb
 C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\ref\CapiRaffle.BLL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\bin\Debug\net6.0\CapiRaffle.BLL.runtimeconfig.json
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\bin\Debug\net6.0\CapiRaffle.DAL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\bin\Debug\net6.0\CapiRaffle.MODEL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\bin\Debug\net6.0\CapiRaffle.DAL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\bin\Debug\net6.0\CapiRaffle.MODEL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\CapiRaffle.BLL.csproj.CopyComplete
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.BLL\obj\Debug\net6.0\CapiRaffle.BLL.genruntimeconfig.cache

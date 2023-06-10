@@ -60,7 +60,7 @@ namespace CapiRaffle.BLL
         {
             using (var dbContext = new CUsersAdminSourceReposCapiraffleCapiraffleDalDatabaseDatabaseMdfContext())
             {
-                var rifa = dbContext.Rifas.Single(p => p.NomeRifa ==  name);
+                var rifa = dbContext.Rifas.Single(p => p.NomeRifa == name);
                 return rifa;
             }
         }
