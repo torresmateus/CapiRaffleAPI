@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\bin\Debug\net6.0\CapiRaffle.MODEL.deps.json
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\bin\Debug\net6.0\CapiRaffle.MODEL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\bin\Debug\net6.0\CapiRaffle.MODEL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\refint\CapiRaffle.MODEL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\CapiRaffle.MODEL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.MODEL\obj\Debug\net6.0\ref\CapiRaffle.MODEL.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.DAL.deps.json
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.DAL.runtimeconfig.json
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.DAL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\bin\Debug\net6.0\CapiRaffle.DAL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\refint\CapiRaffle.DAL.dll
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.pdb
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\CapiRaffle.DAL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CapiRaffle\CapiRaffle.DAL\obj\Debug\net6.0\ref\CapiRaffle.DAL.dll
