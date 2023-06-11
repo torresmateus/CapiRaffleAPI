@@ -21,5 +21,4 @@ public partial class Rifa
 
     public DateTime DataTermino { get; set; }
 
-    public virtual ICollection<Comprador> Compradors { get; set; } = new List<Comprador>();
 }

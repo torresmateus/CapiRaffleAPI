@@ -44,11 +44,6 @@ public partial class CUsersAdminSourceReposCapiraffleCapiraffleDalDatabaseDataba
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("numeros");
-
-            entity.HasOne(d => d.IdRifaNavigation).WithMany(p => p.Compradors)
-                .HasForeignKey(d => d.IdRifa)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("rifa_comprador");
         });
 
         modelBuilder.Entity<Rifa>(entity =>

@@ -14,6 +14,4 @@ public partial class Comprador
     public string Numeros { get; set; } = null!;
 
     public int IdRifa { get; set; }
-
-    public virtual Rifa IdRifaNavigation { get; set; } = null!;
 }

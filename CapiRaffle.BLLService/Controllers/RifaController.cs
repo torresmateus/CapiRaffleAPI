@@ -65,31 +65,7 @@ namespace CapiRaffle.BLLService.Controllers
             }
         }
 
-        [HttpPut(Name = "UpdateRifa")]
-        public ActionResult<Rifa> UpdateRifa(Rifa rifa)
-        {
-            try
-            {
-                if (rifa != null)
-                {
-                    Rifa _rifa = new Rifa();
-                    _rifa.NomeCriador = rifa.NomeCriador;
-                    _rifa.CpfCriador = rifa.CpfCriador;
-                    _rifa.PixCriador = rifa.PixCriador;
-                    _rifa.NomeRifa = rifa.NomeRifa;
-                    _rifa.PremioRifa = rifa.PremioRifa;
-                    _rifa.ValorRifa = rifa.ValorRifa;
-                    _rifa.DataTermino = rifa.DataTermino;
-                    RifaRepository.Update(_rifa);
-                    return Ok(_rifa);
-                }
-                return NotFound();
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, ex.Message);
-            }
-        }
+        
 
         [HttpDelete(Name = "DeleteRifa")]
         public ActionResult DeleteRifa(int id)

@@ -31,6 +31,7 @@ namespace CapiRaffle.BLL
             using (var dbContext = new CUsersAdminSourceReposCapiraffleCapiraffleDalDatabaseDatabaseMdfContext())
             {
                 var comprador = dbContext.Compradors.ToList();
+                
                 return comprador;
             }
         }
